@@ -7,6 +7,11 @@
 * Esse script tem como função fazer o upload de uma imagem
 * E para isso ele usar o site imgur.com como hospedagem
 *
+* Script to Upload on imgur.com
+*
+* This script has the function to upload an image
+* And for that it uses the site imgur.com as hosting
+* 
 * @author Gildásio Júnior
 * @link gildasio.net
 *
